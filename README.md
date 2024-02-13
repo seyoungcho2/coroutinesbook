@@ -25,15 +25,16 @@ fun main() = runBlocking<Unit> {
 ## 코드 실행 방법
 ### 예시 코드
 예시 코드는 main 함수 옆의 재생 버튼(►)을 누르고, Run '파일명' 버튼을 누르면 실행 가능합니다. <br>
-<img width="419" alt="스크린샷 2024-02-09 오후 10 21 23" src="https://github.com/seyoungcho2/coroutinesbook/assets/59521473/ec7fea15-aad4-47cb-831e-e38b28ca4701">
+<img width="498" alt="스크린샷 2024-02-13 오후 4 16 29" src="https://github.com/seyoungcho2/coroutinesbook/assets/59521473/4cf86a51-dbb4-4daf-ab65-f425ae01f244">
 
 <br>
 
 ### 테스트 코드
 
 테스트 코드는 테스트 함수 옆의 재생 버튼(►)을 누르고, Run'함수 이름' 버튼을 누르면 실행 가능합니다. <br>
-<img width="419" alt="스크린샷 2024-02-09 오후 10 21 40" src="https://github.com/seyoungcho2/coroutinesbook/assets/59521473/d346b9a7-8330-41b8-b46a-5d31cab7c31e">
-<br>
+<img width="410" alt="스크린샷 2024-02-13 오후 4 15 59" src="https://github.com/seyoungcho2/coroutinesbook/assets/59521473/30cd18a2-25d5-4561-af4a-00b3ea9aa40c">
+
+<br> <br>
 
 ## 링크 목록
 - 카카오톡 오픈챗: [코틀린, 안드로이드, 스프링 사용자 모임](https://open.kakao.com/o/gAmC7aVd)
