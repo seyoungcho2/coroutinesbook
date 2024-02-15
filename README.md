@@ -38,8 +38,11 @@ fun main() = runBlocking<Unit> {
 
 ## 링크 목록
 - 카카오톡 오픈챗: [코틀린, 안드로이드, 스프링 사용자 모임](https://open.kakao.com/o/gAmC7aVd)
-- 책 구매: 이후 업데이트 예정
-<br>
+- 책 구매
+1. [교보문고](https://product.kyobobook.co.kr/detail/S000212376884)
+2. [Yes24](https://www.yes24.com/Product/Goods/125014350)
+3. [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334132676)
+4. [인터파크](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=356873281)
 
 ## 코드 문의 및 오타 신고 ⚠️
 - 저자 이메일: seyoungcho2@gmail.com
