@@ -17,9 +17,9 @@ class TestCoroutineScheduler {
 
     testCoroutineScheduler.advanceTimeBy(5000L) // 가상 시간에서 5초를 흐르게 만듦 : 현재 시간 5초
     assertEquals(5000L, testCoroutineScheduler.currentTime) // 현재 시간이 5초임을 단언
-    testCoroutineScheduler.advanceTimeBy(6000L) // 가상 시간에서 5초를 흐르게 만듦 : 현재 시간 11초
+    testCoroutineScheduler.advanceTimeBy(6000L) // 가상 시간에서 6초를 흐르게 만듦 : 현재 시간 11초
     assertEquals(11000L, testCoroutineScheduler.currentTime) // 현재 시간이 11초임을 단언
-    testCoroutineScheduler.advanceTimeBy(10000L) // 가상 시간에서 10초를 강제로 흐르게 만듦 : 현재 시간 21초
+    testCoroutineScheduler.advanceTimeBy(10000L) // 가상 시간에서 10초를 흐르게 만듦 : 현재 시간 21초
     assertEquals(21000L, testCoroutineScheduler.currentTime) // 현재 시간이 21초임을 단언
   }
 
@@ -46,7 +46,7 @@ class TestCoroutineScheduler {
     assertEquals(0, result)
     testCoroutineScheduler.advanceTimeBy(5000L) // 가상 시간에서 5초를 흐르게 만듦 : 현재 시간 5초
     assertEquals(0, result)
-    testCoroutineScheduler.advanceTimeBy(6000L) // 가상 시간에서 5초를 흐르게 만듦 : 현재 시간 11초
+    testCoroutineScheduler.advanceTimeBy(6000L) // 가상 시간에서 6초를 흐르게 만듦 : 현재 시간 11초
     assertEquals(1, result)
     testCoroutineScheduler.advanceTimeBy(10000L) // 가상 시간에서 10초를 흐르게 만듦 : 현재 시간 21초
     assertEquals(2, result)

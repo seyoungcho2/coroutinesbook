@@ -5,9 +5,9 @@ import java.util.concurrent.Executors
 
 fun main() {
   val startTime = System.currentTimeMillis()
-
   // ExecutorService 생성
   val executorService: ExecutorService = Executors.newFixedThreadPool(2)
+
   // 작업1 제출
   executorService.submit {
     println("[${Thread.currentThread().name}][${getElapsedTime(startTime)}]작업1 시작")
