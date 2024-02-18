@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="320" alt="표지" src="https://github.com/seyoungcho2/coroutinesbook/assets/59521473/f0b4978b-622b-4843-90fe-c2ec2774b5ba">
+</p>
+
+<br>
+
 ## 소개
 『코틀린 코루틴의 정석』, 에이콘 출판사(2024) 책의 코드를 모아 놓은 저장소 입니다.
 
@@ -36,13 +42,18 @@ fun main() = runBlocking<Unit> {
 
 <br> <br>
 
-## 링크 목록
-- 카카오톡 오픈챗: [코틀린, 안드로이드, 스프링 사용자 모임](https://open.kakao.com/o/gAmC7aVd)
-- 책 구매
+## 책 구매
 1. [교보문고](https://product.kyobobook.co.kr/detail/S000212376884)
 2. [Yes24](https://www.yes24.com/Product/Goods/125014350)
 3. [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334132676)
-4. [인터파크](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=356873281)
+4. [인터파크도서](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=356873281)
+
+<br>
+
+## 링크 목록
+- 카카오톡 오픈챗: [코틀린, 안드로이드, 스프링 사용자 모임](https://open.kakao.com/o/gAmC7aVd)
+
+<br>
 
 ## 코드 문의 및 오타 신고 ⚠️
 - 저자 이메일: seyoungcho2@gmail.com
