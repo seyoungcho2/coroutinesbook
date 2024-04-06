@@ -60,6 +60,11 @@ fun main() = runBlocking<Unit> {
 
 <br>
 
+## 정오표
+- 올바른 인덱스는 [여기](https://github.com/seyoungcho2/coroutinesbook/blob/main/book/%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98%20%EC%A0%95%EC%84%9D_%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%88%98%EC%A0%95%EB%B3%B8.pdf)에서 확인하실 수 있습니다.
+
+<br>
+
 ## 책이 유용하다고 생각하셨나요?👍
 - 깃허브 스타⭐를 통해 책을 지지해주세요!<br>책을 지지한 사람을 [Starganizers](https://github.com/seyoungcho2/coroutinesbook/stargazers) 페이지에서 볼 수 있습니다.
 - 저를 [팔로우](https://github.com/seyoungcho2) 해서 이후의 소식에 대한 알림을 받아보세요.
