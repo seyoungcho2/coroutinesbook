@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test
 
 class StringStateHolderTestFail {
   @Test
-  fun `updateStringWithDelay("ABC")가 호출되면 문자열이 ABC로 변경된다`() = runTest {
+  fun `updateStringWithDelay(ABC)가 호출되면 문자열이 ABC로 변경된다`() = runTest {
     // Given
     val stringStateHolder = StringStateHolder()
 
