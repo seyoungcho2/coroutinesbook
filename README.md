@@ -68,5 +68,5 @@ fun main() = runBlocking<Unit> {
 <br>
 
 ## 책이 유용하다고 생각하셨나요?👍
-- 깃허브 스타⭐를 통해 책을 지지해주세요!<br>책을 지지한 사람을 [Starganizers](https://github.com/seyoungcho2/coroutinesbook/stargazers) 페이지에서 볼 수 있습니다.
+- 깃허브 스타⭐를 통해 책을 지지해주세요!<br>책을 지지한 사람을 [Stargazers](https://github.com/seyoungcho2/coroutinesbook/stargazers) 페이지에서 볼 수 있습니다.
 - 책이 어땠는지 구매 해주신 사이트에 리뷰를 남겨주세요!
